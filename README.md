@@ -10,5 +10,7 @@ N/A
 
 This webpage will provide users with links to view my work as well as my contact infromation. 
 
+![Portfolio](https://user-images.githubusercontent.com/118645127/209746866-7cb3ae03-19ac-4d43-91d5-e87184d63fb1.png)
+
 ## Licence
 N/A
